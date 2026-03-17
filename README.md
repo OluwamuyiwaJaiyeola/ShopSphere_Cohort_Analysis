@@ -170,9 +170,38 @@ Project documentation.
 
 ---
 
-## Conclusion
-Cohort and RFM analysis reveal clear retention patterns, enabling targeted loyalty strategies and data-backed decisions to improve customer lifetime value (LTV).
+## How to Run the Project
+
+**Clone the repository**
+
+git clone https://github.com/oluwamuyiwajaiyeola/ShopSphere_Cohort_Analysis.git
+
+**Install required libraries**
+
+pip install pandas numpy matplotlib seaborn scikit-learn yellowbrick
+
+**Open the notebook**
+
+My_Cohort_Analysis.ipynb
+
+**Run the cells sequentially to reproduce the analysis.**
 
 ---
 
-**jaiyeolaoluwamuyiwa@gmail.com**
+## Project Outcome
+
+This project demonstrates how customer behavioural analytics can help businesses:
+
+– understand retention patterns
+
+– identify high-value customers
+
+– detect churn risk
+
+– design targeted marketing strategies
+
+Such insights allow organisations to make data-driven decisions that improve customer lifetime value (CLV).
+
+---
+
+**jaiyeolaoluwamuyiwa1@gmail.com**
